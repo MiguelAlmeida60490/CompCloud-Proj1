@@ -33,7 +33,7 @@ variable "region" {
 variable "cosmos_throughput" {
   description = "Provisioned RU/s for the database, shared by all containers. Deliberately low (L6)."
   type        = number
-  default     = 400
+  default     = 1000
 }
 
 variable "app_service_sku" {
