@@ -17,9 +17,9 @@
 			Placeholders. "terraform apply" writes the real names to .mvn/maven.config, which
 			overrides these - see the end of main.tf.
 		-->
-		<functionAppName>cc26funfrancecentral4204</functionAppName>
-		<functionAppRegion>francecentral</functionAppRegion>
-		<functionResourceGroup>cc26-rg-fun-francecentral-4204</functionResourceGroup>
+		<functionAppName>cc26fungermanywestcentral4204</functionAppName>
+		<functionAppRegion>germanywestcentral</functionAppRegion>
+		<functionResourceGroup>cc26-rg-fun-germanywestcentral-4204</functionResourceGroup>
 	</properties>
 
 	<dependencies>

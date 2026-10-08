@@ -31,7 +31,7 @@ variable "suffix" {
 variable "region" {
   description = "Azure region. Must be the same as in cc-proj, and one word with no separators, since resource names are built from it."
   type        = string
-  default     = "francecentral"
+  default     = "germanywestcentral"
 }
 
 variable "cosmos_throughput" {

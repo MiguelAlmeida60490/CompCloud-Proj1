@@ -27,7 +27,7 @@ variable "suffix" {
 variable "region" {
   description = "Azure region. Must be one word with no separators, since resource names are built from it."
   type        = string
-  default     = "francecentral"
+  default     = "germanywestcentral"
 }
 
 variable "cosmos_throughput" {

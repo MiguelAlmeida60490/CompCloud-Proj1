@@ -12,9 +12,9 @@
       Placeholders. "terraform apply" writes the real names to .mvn/maven.config, which
       overrides these - see the end of main.tf.
     -->
-    <webAppName>cc26appfrancecentral4204</webAppName>
-    <webAppResourceGroup>cc26-rg-francecentral-4204</webAppResourceGroup>
-    <webAppRegion>francecentral</webAppRegion>
+    <webAppName>cc26appgermanywestcentral4204</webAppName>
+    <webAppResourceGroup>cc26-rg-germanywestcentral-4204</webAppResourceGroup>
+    <webAppRegion>germanywestcentral</webAppRegion>
   </properties>
   <dependencies>
     <dependency><groupId>com.azure</groupId><artifactId>azure-cosmos</artifactId><version>4.74.0</version></dependency>

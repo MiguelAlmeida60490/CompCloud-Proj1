@@ -5,7 +5,7 @@
 # fetch them at all. Use it to measure the server rather than the database - for instance, to
 # compare App Service with Azure Functions.
 config:
-  target: 'https://cc26appfrancecentral4204.azurewebsites.net/rest'
+  target: 'https://cc26appgermanywestcentral4204.azurewebsites.net/rest'
   http:
     timeout: 10
   plugins:

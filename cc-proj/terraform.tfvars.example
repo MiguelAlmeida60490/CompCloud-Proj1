@@ -1,7 +1,7 @@
 # Copy to terraform.tfvars and edit. terraform.tfvars is gitignored.
 
 suffix = "4204"          # yours, not this one
-region = "francecentral"
+region = "germanywestcentral"
 
 # false if the resource group already exists, for instance because you created it in the portal
 create_resource_group = true

@@ -1,5 +1,5 @@
 config:
-  target: 'https://cc26appfrancecentral4204.azurewebsites.net/rest'
+  target: 'https://cc26appgermanywestcentral4204.azurewebsites.net/rest'
   http:
     timeout: 30
   plugins:
